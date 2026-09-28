@@ -1,0 +1,44 @@
+{
+  "name": "My IPAs",
+  "subtitle": "My personal IPA collection",
+  "description": "A collection of IPAs for personal use.",
+  "iconURL": "https://mumbojum2.github.io/ipas/icon.png",
+  "apps": [
+    {
+      "name": "White Tiles 4",
+      "bundleIdentifier": "com.example.whitetiles4",
+      "developerName": "Developer Name",
+      "subtitle": "Piano Master 2",
+      "localizedDescription": "White Tiles 4: Piano Master 2",
+      "iconURL": "https://mumbojum2.github.io/ipas/white-tiles-icon.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-09-28",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://github.com/mumbojum2/ipas/releases/download/h/White.Tiles.4.ipa",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "App Name",
+      "bundleIdentifier": "com.example.app2",
+      "developerName": "Developer Name",
+      "subtitle": "App Subtitle",
+      "localizedDescription": "Full description of the app.",
+      "iconURL": "https://mumbojum2.github.io/ipas/app2-icon.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-09-28",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://github.com/mumbojum2/ipas/releases/download/h/ck4dqm.ipa",
+          "size": 0
+        }
+      ]
+    }
+  ]
+}
