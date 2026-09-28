@@ -1,16 +1,14 @@
 {
-  "name": "My IPAs",
+  "name": "Mumbojum2's IPAs",
   "subtitle": "My personal IPA collection",
   "description": "A collection of IPAs for personal use.",
-  "iconURL": "https://mumbojum2.github.io/ipas/icon.png",
   "apps": [
     {
       "name": "White Tiles 4",
-      "bundleIdentifier": "com.example.whitetiles4",
-      "developerName": "Developer Name",
+      "bundleIdentifier": "com.mumbojum2.app",
+      "developerName": "Mumbojum2",
       "subtitle": "Piano Master 2",
       "localizedDescription": "White Tiles 4: Piano Master 2",
-      "iconURL": "https://mumbojum2.github.io/ipas/white-tiles-icon.png",
       "versions": [
         {
           "version": "1.0",
@@ -18,17 +16,16 @@
           "date": "2026-09-28",
           "localizedDescription": "Initial release.",
           "downloadURL": "https://github.com/mumbojum2/ipas/releases/download/h/White.Tiles.4.ipa",
-          "size": 0
+          "size": 129197945
         }
       ]
     },
     {
-      "name": "App Name",
-      "bundleIdentifier": "com.example.app2",
-      "developerName": "Developer Name",
-      "subtitle": "App Subtitle",
-      "localizedDescription": "Full description of the app.",
-      "iconURL": "https://mumbojum2.github.io/ipas/app2-icon.png",
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Spotify",
+      "subtitle": "Music for everyone",
+      "localizedDescription": "Spotify is a digital music service that gives you access to millions of songs.",
       "versions": [
         {
           "version": "1.0",
@@ -36,7 +33,7 @@
           "date": "2026-09-28",
           "localizedDescription": "Initial release.",
           "downloadURL": "https://github.com/mumbojum2/ipas/releases/download/h/ck4dqm.ipa",
-          "size": 0
+          "size": 87435216
         }
       ]
     }
